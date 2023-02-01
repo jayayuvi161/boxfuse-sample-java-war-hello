@@ -1,12 +1,12 @@
 <html>
 <head>
-    <title>Boxfuse Sample App: success!</title>
+    <title>tomcat App: success!</title>
 </head>
 <body style="text-align: center">
-<h1>Welcome to devops</h1>
+<h1>Welcome to jenkins</h1>
 <img src="boxfuse.png">
 
-<h2>You have successfully launched your Instance!</h2>
+<h2>You have successfully launched your tomcat!</h2>
 
 <p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>
