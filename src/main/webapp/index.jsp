@@ -3,7 +3,7 @@
     <title>tomcat App: success!</title>
 </head>
 <body style="text-align: center">
-<h1>Welcome to jenkins</h1>
+<h1>Welcome to Docker-server</h1>
 <img src="boxfuse.png">
 
 <h2>You have successfully launched your tomcat!</h2>
