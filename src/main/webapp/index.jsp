@@ -6,7 +6,7 @@
 <h1>Welcome to ansible</h1>
 <img src="boxfuse.png">
 
-<h2>You have successfully completed ansible-server!</h2>
+<h2>You have successfully completed ansible!</h2>
 
 <p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>
