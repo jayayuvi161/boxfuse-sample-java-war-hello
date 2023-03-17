@@ -3,10 +3,10 @@
     <title>tomcat App: success!</title>
 </head>
 <body style="text-align: center">
-<h1>Welcome to ansible</h1>
+<h1>Welcome to tomcat</h1>
 <img src="boxfuse.png">
 
-<h2>You have successfully completed ansible!</h2>
+<h2>You have successfully completed tomcat!</h2>
 
 <p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>
